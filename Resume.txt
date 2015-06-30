@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Matt Curtis&rsquo; Resume</title>
+</head>
+<body>
+<main>
+	<h1>Matthew Curtis</h1>
+		<p>Phone: 703 &ndash; 473 &ndash; 8224</p>
+		<p>E-mail: Curtismn87@yahoo.com</p>
+		<p>5105 Richardson Drive</p>
+		<p>Fairfax, VA 22032</p>
+
+<h2><strong>Education</strong></h2>
+	<p>Fall 2008 &ndash; May 2012</p>
+	<p> James Madison University &ndash; B.S. Kinesiology
+	<ul>
+		<li> Concentration: Sport and Recreation Management</li>
+		<li> Minor: General Business</li>
+	</ul>
+	<p>Fall 2007 &ndash; Summer 2008</p>
+	<p>Northern Virginia Community College &ndash; A.A.S Business Administration</p>
+
+<h2><strong>Work History</strong></h2>
+	<h3>NVT Staffing</h3>
+	<p><em>Temporary Associate</em></p> 
+	<p>November 2014 &ndash; June 2015</p>
+	<ul>
+		<li>Worked various data entry, administration, call center, and warehouse positions</li>
+	</ul>
+	<h3>LifeTime Athletic</h3>
+	<p><em>Member Engagement Advisor &ndash; Sales</em></p>
+	<p>September 2013 &ndash; 2013</p>
+	<ul>
+		<li>Interacted face to face with hundreds of prospects a month</li>
+		<li>Helped prospects get committed to a program based on their goals</li>
+		<li>Proficient in SalesForce and Microsoft Dynamics</li>
+		<li>Achieved acquisition goals while retaining current members</li>
+		<li>Handled customer services situations</li>
+	</ul>
+	<h3>Gold's Gym International</h3>
+	<p><em>Fitness Consultant &ndash; Sales</em></p>
+	<p>June 2012 &ndash; September 2013</p>
+	<ul>
+		<li>Sold gym memberships to potential members based on their fitness goals</li>
+		<li>Generated new leads through current members and community outreach</li>
+		<li>Handled customer service issues relating to accounts, billing, gym etiquette, etc.</li>
+		<li>Successfully worked to reach monthly membership sales goals</li>
+	</ul>
+	<h3>Annandale High School</h3>
+	<p><em>Athletic Intern</em></p>
+	<p>January 2012 &ndash; May 2012</p>
+	<ul>
+		<li>Obtained Fairfax County security badge</li>
+		<li>Organized and evaluated the results of student surveys utilizing Excel</li>
+		<li>Updated and maintained the athletic website with information for entire sports curriculum</li>
+		<li>Created/Updated the school database</li>
+	</ul>
+<h3>James Madison University Recreation</h3>
+	<p><em>Practicum Student &ndash; Intramural Sports and Special Events</em></p>
+	<p>August 2011 &ndash; November 2011</p>
+	<ul>
+		<li>Organized, promoted, and executed a week long 24 teams volleyball tournament</li>
+		<li>Provided referee evaluations</li>
+		<li>Scheduled intramural sporting events and inspected the facilities</li>
+		<li>Researched new intramural sports and special events for program expansion</li>
+	</ul>
+
+
+<h2>Awards</h2>
+	<ul>
+		<li> Top Sales Performance (LifeTime Athletic) &ndash; October 2014</li>
+		<li> Rookie of the Month (LifeTime Athletic) &ndash; December 2013</li>
+	</ul>
+</main>
+	
+</body>
+</html>
