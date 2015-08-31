@@ -45,3 +45,19 @@ You can also Google "developer portfolio website" for more ideas :)
 ### Domains
 
 If you want, you can buy a domain from [namecheap](https://www.namecheap.com/). They recently added the "io" extension. :)
+
+### Sass
+
+Try adding some [Sass](http://sass-lang.com/) to your portfolio site.
+
+We'd like you to try using:
+
+- At least three variables
+- At least one mixin
+- The `&` selector
+
+Bonus!
+
+- Use a [color function](http://sass-lang.com/documentation/Sass/Script/Functions.html): `darken`, `lighten`, etc.
+- Use a function to create 3d effects, like https://jesse.sh/makes-3d-buttons-with-sass/
+
