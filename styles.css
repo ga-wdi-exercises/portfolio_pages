@@ -1,0 +1,28 @@
+#contact_info div {
+  display: inline-block;
+  margin: 20px; }
+
+#section1 {
+  color: #162955;
+  background-color: #3d5897; }
+
+#section2 {
+  color: lemonchiffon;
+  background-color: blue; }
+
+#section3 {
+  color: lemonchiffon;
+  background-color: blue; }
+
+#section4 {
+  color: lemonchiffon;
+  background-color: blue; }
+
+#section5 {
+  color: lemonchiffon;
+  background-color: blue; }
+
+#myNavbar li {
+  text-shadow: 1px 1px white; }
+
+/*# sourceMappingURL=styles.css.map */
