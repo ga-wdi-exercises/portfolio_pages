@@ -9,7 +9,7 @@
 }
 
 #section1 {
-@include sectionColor(rgb(22, 41, 85), rgb(61, 88, 151));
+@include sectionColor(lemonchiffon, blue);
 }
 #section2{
 @include sectionColor(lemonchiffon, blue);
