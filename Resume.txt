@@ -23,7 +23,7 @@
 
 <h2><strong>Work History</strong></h2>
 	<h3>NVT Staffing</h3>
-	<p><em>Temporary Associate</em></p> 
+	<p><em>Temporary Associate</em></p>
 	<p>November 2014 &ndash; June 2015</p>
 	<ul>
 		<li>Worked various data entry, administration, call center, and warehouse positions</li>
@@ -66,6 +66,24 @@
 		<li>Researched new intramural sports and special events for program expansion</li>
 	</ul>
 
+	<h1>Skills</h1>
+	<ul>
+		<li>JavaScript</li>
+		<li>HTML</li>
+		<li>CSS / Sass</li>
+		<li>jQuery</li>
+		<li>AJAX</li>
+		<li>JSON</li>
+		<li>PostgreSQL</li>
+		<li>Ruby on Rails (+gems)</li>
+		<li>Ruby</li>
+		<li>Sinatra</li>
+		<li>Node JS</li>
+		<li>Sequelize/li>
+		<li>Express JS</li>
+		<li>Node JS</li>
+		<li>Bootstrap</li>
+	</ul>
 
 <h2>Awards</h2>
 	<ul>
@@ -73,6 +91,6 @@
 		<li> Rookie of the Month (LifeTime Athletic) &ndash; December 2013</li>
 	</ul>
 </main>
-	
+
 </body>
 </html>
