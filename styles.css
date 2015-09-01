@@ -1,0 +1,121 @@
+body {
+  width: 100%;
+  background-image: url("mellishbanner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: helvetica;
+  font-weight: 100; }
+
+a {
+  color: red;
+  text-decoration: none; }
+
+h3 {
+  font-weight: 400; }
+
+header {
+  display: block;
+  text-align: center; }
+
+.logo {
+  height: 125px;
+  padding-bottom: 40px;
+  width: 225px; }
+
+.navigation {
+  margin-bottom: 40px; }
+
+span {
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  color: black;
+  margin-right: 20px;
+  padding: 10px;
+  transition-duration: .3s;
+  transition-property: background, border-color, color;
+  transition-timing-function: linear; }
+  span:hover {
+    background: whitesmoke;
+    border-color: whitesmoke;
+    opacity: 1;
+    color: red;
+    cursor: pointer; }
+
+.mellish_practice {
+  margin-bottom: 10px;
+  text-align: center; }
+
+.home_pic {
+  height: 500px;
+  width: 800px;
+  border: 2px solid white;
+  border-radius: 2px; }
+
+.music {
+  background: rgba(245, 245, 245, 0.5);
+  border: 2px rgba(245, 245, 245, 0.5);
+  border-radius: 2px;
+  color: black;
+  display: none;
+  height: 460px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  width: 760px; }
+
+.about {
+  background: whitesmoke;
+  border: 2px solid white;
+  border-radius: 2px;
+  color: black;
+  display: none;
+  height: 460px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  width: 760px; }
+
+.members {
+  margin-top: 30px; }
+
+.justin {
+  display: block; }
+
+.jem {
+  border: 2px solid white;
+  height: 150px;
+  width: 175px;
+  -webkit-box-shadow: 1px 0px 5px 0.5px;
+  -moz-box-shadow: 1px 0px 5px 0.5px;
+  box-shadow: 1px 0px 5px 0.5px; }
+
+.contact {
+  background: whitesmoke;
+  border: 2px solid white;
+  border-radius: 2px;
+  color: black;
+  display: none;
+  height: 460px;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+  width: 760px; }
+
+.socialMedia {
+  margin-top: 50px; }
+
+.merch {
+  background: whitesmoke;
+  border: 2px solid white;
+  border-radius: 2px;
+  color: black;
+  display: none;
+  height: 460px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  width: 760px; }
+
+/*# sourceMappingURL=styles.css.map */
