@@ -1,5 +1,5 @@
 # Your Personal Portfolio Site
-
+..
 ### Designing it
 
 * Think about who you want to view your site (potential employers, freelance opportunities, friends). I know it is tempting to make it flashy with tons of jQuery plugins, but the most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
