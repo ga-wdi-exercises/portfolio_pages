@@ -68,3 +68,26 @@ Personal websites from some previous WDI grads:
 
 You can also Google "developer portfolio website" for more ideas :)
 
+## Domains (Optional)
+
+If you'd like, you can purchase a domain and then "point" the domain to your Github Pages repo. Here are instructions on how to do so:
+
+https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
+
+We recommend [Namecheap](https://www.namecheap.com/).
+
+## Sass (Optional)
+
+If you'd like, try adding some [Sass](http://sass-lang.com/) to your portfolio site.
+
+We'd like you to try using:
+
+- At least three variables
+- At least one mixin
+- The `&` selector
+
+Bonus!
+
+- Use a [color function](http://sass-lang.com/documentation/Sass/Script/Functions.html): `darken`, `lighten`, etc.
+- Use a function to create 3d effects, like https://jesse.sh/makes-3d-buttons-with-sass/
+
