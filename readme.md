@@ -14,7 +14,21 @@ You may continue with the "About Me" page you created when interviewing for this
 - Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
 - Javascript isn't required, but you get bonus points for giving it a shot!
 
-Part-way through the day, we'll ask you to pair with another student and review each others' sites. *You're strongly encouraged to do this of your own volition!*
+## Pairing with Others
+
+Every student must create their *own* website, but you're **welcome and encouraged** to collaborate with others! The best way to create a great website is to get targeted feedback from others at several points in the process.
+
+Part-way through the day, we'll ask you to pair with another student and review each others' sites:
+
+1. Push your most recent changes to Github.
+- Fork your partner's repository.
+- Clone it down.
+- Check out a new branch called `your-name-suggestions`.
+- Take 15 minutes to make comments, suggestions, and changes to their code.
+- Add and commit your changes, and then `git push origin your-name-suggestions`.
+- Click the green "New Pull Request" button on your fork's Github page and follow the steps.
+- Take a look at the pull request your partner made on *their* fork of *your* repository, and consider their changes.
+- Close their pull request (or, if you wish, merge it in).
 
 ## Tips
 
