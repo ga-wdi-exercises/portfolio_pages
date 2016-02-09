@@ -1,6 +1,22 @@
 # Your Personal Portfolio Site
 
-### Designing it
+## Instructions
+
+Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/).
+
+You may continue with the "About Me" page you created when interviewing for this course. However, the intent is that **this will be the foundation of the portfolio page you display to employers**, so you'll probably want to make significant improvements!
+
+## Requirements
+
+- Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
+- Your semantics and style should be separated appropriately: your CSS should be separate from your HTML.
+- Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
+- Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
+- Javascript isn't required, but you get bonus points for giving it a shot!
+
+Part-way through the day, we'll ask you to pair with another student and review each others' sites. *You're strongly encouraged to do this of your own volition!*
+
+## Tips
 
 * Think about who you want to view your site (potential employers, freelance opportunities, friends). I know it is tempting to make it flashy with tons of jQuery plugins, but the most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
 
@@ -8,15 +24,11 @@
 
 * Wireframe what you want your site to look like first!
 
-### Building it
-
-* Services like WordPress.com, SquareSpace, etc. are great and useful to use (even for developers)! If you are starting from scratch, it may be easier / faster to get a site up on SquareSpace first then come back and rebuild it when you have the time after the course.
-
-* Use the right tool for the job. It is probably overkill to build a Rails app for your portfolio site (not to mention Heroku being slow). In most casese, a simple HTML, CSS & JavaScript page should do the trick. [Github Pages](http://pages.github.com/) works really well for this. [Github Pages Tutorial](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
-
 * Use proper indentation and organize your code. Chances are people will view your source!
 
-### Inspiration
+* You may use Bootstrap or other CSS frameworks. If you do, you're encouraged to start off using it so that you get an idea of how you want your page to look, and then to gradually remove the Bootstrap in favor of CSS you wrote yourself.
+
+## Inspiration
 
 Personal websites from some previous WDI grads:
 
@@ -41,23 +53,4 @@ Personal websites from some previous WDI grads:
 * http://www.belcortes.com/
 
 You can also Google "developer portfolio website" for more ideas :)
-
-### Domains
-
-If you want, you can buy a domain from [namecheap](https://www.namecheap.com/). They recently added the "io" extension. :)
-
-### Sass
-
-Try adding some [Sass](http://sass-lang.com/) to your portfolio site.
-
-We'd like you to try using:
-
-- At least three variables
-- At least one mixin
-- The `&` selector
-
-Bonus!
-
-- Use a [color function](http://sass-lang.com/documentation/Sass/Script/Functions.html): `darken`, `lighten`, etc.
-- Use a function to create 3d effects, like https://jesse.sh/makes-3d-buttons-with-sass/
 
