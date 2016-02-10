@@ -1,6 +1,36 @@
 # Your Personal Portfolio Site
 
-### Designing it
+## Instructions
+
+Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/).
+
+You may continue with the "About Me" page you created when interviewing for this course. However, the intent is that **this will be the foundation of the portfolio page you display to employers**, so you'll probably want to make significant improvements!
+
+## Requirements
+
+- Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
+- Your semantics and style should be separated appropriately: your CSS should be separate from your HTML.
+- Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
+- Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
+- Javascript isn't required, but you get bonus points for giving it a shot!
+
+## Pairing with Others
+
+Every student must create their *own* website, but you're **welcome and encouraged** to collaborate with others! The best way to create a great website is to get targeted feedback from others at several points in the process.
+
+Part-way through the day, we'll ask you to pair with another student and review each others' sites:
+
+1. Push your most recent changes to Github.
+- Fork your partner's repository.
+- Clone it down.
+- Check out a new branch called `your-name-suggestions`.
+- Take 15 minutes to make comments, suggestions, and changes to their code.
+- Add and commit your changes, and then `git push origin your-name-suggestions`.
+- Click the green "New Pull Request" button on your fork's Github page and follow the steps.
+- Take a look at the pull request your partner made on *their* fork of *your* repository, and consider their changes.
+- Close their pull request (or, if you wish, merge it in).
+
+## Tips
 
 * Think about who you want to view your site (potential employers, freelance opportunities, friends). I know it is tempting to make it flashy with tons of jQuery plugins, but the most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
 
@@ -8,15 +38,11 @@
 
 * Wireframe what you want your site to look like first!
 
-### Building it
-
-* Services like WordPress.com, SquareSpace, etc. are great and useful to use (even for developers)! If you are starting from scratch, it may be easier / faster to get a site up on SquareSpace first then come back and rebuild it when you have the time after the course.
-
-* Use the right tool for the job. It is probably overkill to build a Rails app for your portfolio site (not to mention Heroku being slow). In most casese, a simple HTML, CSS & JavaScript page should do the trick. [Github Pages](http://pages.github.com/) works really well for this. [Github Pages Tutorial](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
-
 * Use proper indentation and organize your code. Chances are people will view your source!
 
-### Inspiration
+* You may use Bootstrap or other CSS frameworks. If you do, you're encouraged to start off using it so that you get an idea of how you want your page to look, and then to gradually remove the Bootstrap in favor of CSS you wrote yourself.
+
+## Inspiration
 
 Personal websites from some previous WDI grads:
 
@@ -42,13 +68,17 @@ Personal websites from some previous WDI grads:
 
 You can also Google "developer portfolio website" for more ideas :)
 
-### Domains
+## Domains (Optional)
 
-If you want, you can buy a domain from [namecheap](https://www.namecheap.com/). They recently added the "io" extension. :)
+If you'd like, you can purchase a domain and then "point" the domain to your Github Pages repo. Here are instructions on how to do so:
 
-### Sass
+https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
 
-Try adding some [Sass](http://sass-lang.com/) to your portfolio site.
+We recommend [Namecheap](https://www.namecheap.com/).
+
+## Sass (Optional)
+
+If you'd like, try adding some [Sass](http://sass-lang.com/) to your portfolio site.
 
 We'd like you to try using:
 
