@@ -46,24 +46,18 @@ Part-way through the day, we'll ask you to pair with another student and review 
 
 Personal websites from some previous WDI grads:
 
-* http://www.parishyun.com/
-* http://teaholoves.me/
 * http://britt.is/
 * http://raleighdaniel.com/
 * http://jlappano.github.io/
 * http://bradpuder.com/
-* http://www.erniecasilla.com/
-* http://www.justinkemmerer.com/
 * http://nicholalexander.com/
 * http://kevoncheung.com/
 * http://rlee1121.github.io/
-* http://janesternbach.com/
 * http://www.larrybuch.com/
 * http://www.timlatorre.com/
 * http://chrisgoodmacher.com/
 * http://adrianbautista.com/
 * http://www.andrewmadden.com/
-* http://www.thomaswhyyou.com/
 * http://www.belcortes.com/
 
 You can also Google "developer portfolio website" for more ideas :)
@@ -90,4 +84,3 @@ Bonus!
 
 - Use a [color function](http://sass-lang.com/documentation/Sass/Script/Functions.html): `darken`, `lighten`, etc.
 - Use a function to create 3d effects, like https://jesse.sh/makes-3d-buttons-with-sass/
-
