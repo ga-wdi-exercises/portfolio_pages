@@ -6,19 +6,7 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 You may continue with the "About Me" page you created when interviewing for this course. However, the intent is that **this will be the foundation of the portfolio page you display to employers**, so you'll probably want to make significant improvements!
 
-## Requirements
-
-- Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
-- Your semantics and style should be separated appropriately: your CSS should be separate from your HTML.
-- Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
-- Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
-- Javascript isn't required, but you get bonus points for giving it a shot!
-
-## Pairing with Others
-
-Every student must create their *own* website, but you're **welcome and encouraged** to collaborate with others! The best way to create a great website is to get targeted feedback from others at several points in the process.
-
-Part-way through the day, we'll ask you to pair with another student and review each others' sites:
+**At 2:30pm please report to your classroom.** We'll ask you to pair with another student and review each others' sites:
 
 1. Push your most recent changes to Github.
 - Fork your partner's repository.
@@ -29,6 +17,22 @@ Part-way through the day, we'll ask you to pair with another student and review 
 - Click the green "New Pull Request" button on your fork's Github page and follow the steps.
 - Take a look at the pull request your partner made on *their* fork of *your* repository, and consider their changes.
 - Close their pull request (or, if you wish, merge it in).
+
+**At 4:30pm you will meet with your squad at the last place you met.**
+
+## Requirements
+
+**This lab counts as an assignment.** Your squad instructor will review your code and leave feedback by Monday.
+
+- Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
+- Your semantics and style should be separated appropriately: your CSS should be separate from your HTML.
+- Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
+- Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
+- Javascript isn't required, but you get bonus points for giving it a shot!
+
+## Pairing with Others
+
+Every student must create their *own* website, but you're **welcome and encouraged** to collaborate with others! The best way to create a great website is to get targeted feedback from others at several points in the process.
 
 ## Tips
 
@@ -55,7 +59,6 @@ Personal websites from some previous WDI grads:
 * http://rlee1121.github.io/
 * http://www.larrybuch.com/
 * http://www.timlatorre.com/
-* http://chrisgoodmacher.com/
 * http://adrianbautista.com/
 * http://www.andrewmadden.com/
 * http://www.belcortes.com/
