@@ -4,7 +4,7 @@ body {
 h1 {
   font-family: Impact;
   font-size: 50px;
-  text-align: center;
+  text-align:center;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
@@ -25,4 +25,11 @@ h3 {
   padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: #777777;
 }
