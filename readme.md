@@ -8,6 +8,8 @@ You may continue with the "About Me" page you created when interviewing for this
 
 **At 2:30pm please report to your classroom.** We'll ask you to pair with another student and review each others' sites:
 
+Rob is cool.
+
 1. Push your most recent changes to Github.
 - Fork your partner's repository.
 - Clone it down.
