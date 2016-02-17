@@ -30,6 +30,10 @@ You may continue with the "About Me" page you created when interviewing for this
 - Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
 - Javascript isn't required, but you get bonus points for giving it a shot!
 
+### Submission
+
+Please **create an issue on this repo, ga-wdi-exercises/portfolio_pages**, containing a link to the **repo** you created -- not the webpage. So your issue should contain `http://github.com/wdidcstudent/wdidcstudent.github.io`, for example, and **not** `http://wdidcstudent.github.io`.
+
 ## Pairing with Others
 
 Every student must create their *own* website, but you're **welcome and encouraged** to collaborate with others! The best way to create a great website is to get targeted feedback from others at several points in the process.
