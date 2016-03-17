@@ -1,0 +1,72 @@
+	
+	header {
+		text-align: center;
+		background: url("http://i.imgur.com/jc5PgX4.jpg");
+		background-position: center;
+		background-size: cover;
+		color: white;
+		overflow: auto;
+	}
+	nav {
+		text-align: left;
+		color: white;
+
+	}
+	h1 {
+		font-size: 40px;
+		color: white;
+	}
+	img {
+		margin: 10px 10px 00px 00px;
+		border: 5px solid black;
+		border-radius: 20px;
+		float: left;
+	}
+	div.images1 {
+		display:inline-block;
+		margin: 10px;
+	}
+	div.images2 {
+		float: right;
+		margin: 0px 0px 20px 20px;
+	}
+	div.images0 {
+		text-align: left;
+	}
+	article {
+		max-width: 800px;
+		padding: 25px;
+		margin: 0 auto;
+		background-color: gray;
+	}
+	p {
+		margin-bottom:40px;
+	}
+	a.button {
+		-webkit-appearance: button;
+		-moz-appearance: button;
+		appearance: button;
+		margin-top: 30px;
+	}
+	@media (max-width:500px) {
+		h1 {
+			font-size: 35px;
+			color: white;
+		}
+		h2 {
+			font-size:30px;
+			text-align: justify;
+		}
+		div.images1 {
+			display:block;
+		}
+	}
+	h2 {
+		text-align: left;
+		color: rgba(0,0,255,.5);
+		font-size: 30px;
+	}
+	body {
+		text-align: justify;
+		background: #232323;
+	}
