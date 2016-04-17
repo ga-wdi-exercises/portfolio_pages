@@ -1,35 +1,94 @@
 body {
-  background-color: #DAFFEF;
+  background-color: #white;
 }
+
 h1 {
   font-family: Impact;
   font-size: 50px;
-  text-align:center;
+  text-align:left;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
   padding-bottom: 20px;
 }
-h2 {
-  font-family:helvetica;
-  text-transform: lowercase;
-  font-size: 20px;
-  text-align: center;
-}
-h3 {
-  font-family: helvetica;
-  font-size: 16px;
-  color: black;
-  text-align: center;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
+
 a {
   text-decoration: none;
   color: black;
 }
+
 a:hover {
   color: #777777;
+}
+
+img {
+  box-sizing:border-box;
+  max-width: 200px;
+}
+
+#nav {
+  background-color: #DAFFEF;
+  position: fixed;
+  font-family: arial, sans-serif;
+  font-size: 18px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+}
+
+.hilaryname {
+  margin-top: 100px;;
+}
+
+.aboutme {
+  text-align: left;
+  font-size: 20px;
+  font-family:arial;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.brandstatement {
+  font-size: 20px;
+  font-family:arial;
+  text-align: left;
+}
+
+.development {
+  text-align: left;
+  font-size: 20px;
+  font-family:arial;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.devbio{
+  font-size: 20px;
+  font-family:arial;
+  text-align: left;
+}
+.projects {
+  text-align: left;
+  font-size: 20px;
+  font-family:arial;
+  padding-top: 80px;
+  padding-bottom: 80px;
+
+}
+.joglog{
+  font-size: 20px;
+  font-family:arial;
+  text-align: left;
+}
+
+.contact{
+  text-align: left;
+  font-size: 20px;
+  font-family:arial;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
