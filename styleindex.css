@@ -21,26 +21,31 @@ a {
 #nav {
   background-color: black;
   color: blue;
-  position: absolute;
+  position: fixed;
   font-family: arial, sans-serif;
   font-size: 20px;
   text-align: right;
   height: 50px;
   width: 100%;
   list-style-type: none;
+  opacity: 0.6;
 }
 li {
   display: inline-block;
 }
 
 .div_top{
-  background-color: yellow;
-  height: 500px;
+  /*background-image: url("http://i.imgur.com/BvuFLI2.jpg");*/
+  background-image: url("http://i.imgur.com/ZcRJz0r.jpg"), url("http://i.imgur.com/9hrsyMJ.jpg");
+  /*background-attachment: fixed;*/
+  height: 1125px;
   width: 100%;
-  background-size: cover;
+  background-size:cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  color: orange;
+  text-shadow: 20px;
 }
 
 
@@ -52,7 +57,10 @@ li {
   padding-bottom: 80px;
   height: 300px;
   width: 100%;
-  background-color: gray;
+  color: white;
+  background-color: black;
+  background-attachment: fixed;
+  /*opacity: .8;*/
 }
 .brandstatement {
   font-size: 20px;
@@ -60,7 +68,13 @@ li {
   text-align: left;
 }
 
+.bio{
+  margin-left: 22%;
+  margin-right: 20%;
+}
 .development {
+  background-image: url("http://i.imgur.com/dN6MX3b.jpg");
+  background-attachment: fixed;
   text-align: left;
   font-size: 20px;
   font-family:arial;
@@ -68,7 +82,9 @@ li {
   padding-bottom: 80px;
   height: 300px;
   width: 100%;
-  background-color: yellow;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
 }
 
 .projects {
@@ -79,13 +95,16 @@ li {
   padding-bottom: 80px;
   height: 300px;
   width: 100%;
-  background-color: gray;
-
+  background-color: black;
+  color: white;
+}
+.picasso {
+  margin-left: 22%;
+  margin-right: 20%;
 }
 
-
 .contact{
-  background-color: yellow;
+  background-color: gray;
   text-align: left;
   font-size: 20px;
   font-family: arial;
@@ -93,4 +112,5 @@ li {
   padding-bottom: 80px;
   height: 300px;
   width: 100%;
+  opacity: .5;
 }
