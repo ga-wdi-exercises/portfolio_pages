@@ -5,15 +5,22 @@
 }
 
 h1 {
-  font-family: arial;
+  font-family: verdana;
   font-size: 50px;
   text-align:left;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 15px;
 }
-
+#hilaryname{
+  font-family: impact;
+}
+.brandstatement {
+  font-size: 20px;
+  font-family:arial;
+  text-align: left;
+}
 a {
   text-decoration: none;
   color: white;
@@ -22,11 +29,12 @@ a {
   background-color: black;
   color: blue;
   position: fixed;
-  font-family: arial, sans-serif;
+  font-family:verdana, sans-serif;
   font-size: 20px;
   text-align: right;
   height: 50px;
   width: 100%;
+  padding-right: 10px;
   list-style-type: none;
   opacity: 0.6;
 }
@@ -38,7 +46,7 @@ li {
   /*background-image: url("http://i.imgur.com/BvuFLI2.jpg");*/
   background-image: url("http://i.imgur.com/ZcRJz0r.jpg"), url("http://i.imgur.com/9hrsyMJ.jpg");
   /*background-attachment: fixed;*/
-  height: 1125px;
+  height: 1150px;
   width: 100%;
   background-size:cover;
   display: flex;
@@ -46,29 +54,27 @@ li {
   justify-content: center;
   color: orange;
   text-shadow: 20px;
+  font-family: Helvetica, sans-serif;
 }
 
 
 .aboutme {
   text-align: left;
-  font-size: 20px;
-  font-family:arial;
+  font-size: 18px;
+  font-family:verdana;
   padding-top: 80px;
   padding-bottom: 80px;
-  height: 300px;
+  height: 400px;
   width: 100%;
-  color: white;
+  color: orange;
   background-color: black;
   background-attachment: fixed;
   /*opacity: .8;*/
 }
-.brandstatement {
-  font-size: 20px;
-  font-family:arial;
-  text-align: left;
-}
+
 
 .bio{
+  text-align: center;
   margin-left: 22%;
   margin-right: 20%;
 }
@@ -77,7 +83,7 @@ li {
   background-attachment: fixed;
   text-align: left;
   font-size: 20px;
-  font-family:arial;
+  font-family:verdana;
   padding-top: 80px;
   padding-bottom: 80px;
   height: 300px;
@@ -89,28 +95,40 @@ li {
 
 .projects {
   text-align: left;
-  font-size: 20px;
-  font-family:arial;
+  font-size: 30px;
+  font-family: impact;
   padding-top: 80px;
   padding-bottom: 80px;
-  height: 300px;
+  height: 500px;
   width: 100%;
   background-color: black;
-  color: white;
+  color: orange;
 }
 .picasso {
-  margin-left: 22%;
-  margin-right: 20%;
+  text-align: center;
+  padding-bottom: 10%;
+}
+.jogimage{
+  background-image: url(http://i.imgur.com/OiIxbO8.jpg);
+  height: 250px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center;
+  background-size: cover;
 }
 
 .contact{
-  background-color: gray;
+  background-image: url("http://i.imgur.com/VKe8Hms.jpg");
+  /*background-color: gray;*/
+  background-position: center;
+  /*background-attachment: fixed;*/
+  background-size:cover;;
   text-align: left;
   font-size: 20px;
-  font-family: arial;
+  font-family:verdana;
   padding-top: 80px;
   padding-bottom: 80px;
-  height: 300px;
+  height: 800px;
   width: 100%;
-  opacity: .5;
 }

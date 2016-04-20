@@ -1,0 +1,1 @@
+$('#jogimage').onClick('pulse');
