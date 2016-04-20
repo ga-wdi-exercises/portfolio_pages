@@ -129,6 +129,34 @@ li {
   font-family:verdana;
   padding-top: 80px;
   padding-bottom: 80px;
-  height: 800px;
+  height: 900px;
   width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  display: inline-block;
+}
+.icons{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  /*height: 400px;*/
+  width: 100%;
+  color: orange;
+  background-color: black;
+}
+#kittygithub {
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center;
+  background-size: cover;
+}
+#twitter {
+  height: 200px;
+  width: 200px;
+
+  background-position: center;
+  background-size: cover;
 }
