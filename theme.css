@@ -1,5 +1,92 @@
+.row, .column {
+	box-sizing: border-box;
+}
+
+.row {
+/*	border: 2px solid rebeccapurple;*/
+
+}
+
+.row:before, .row:after {
+  content: "";
+  display: table;
+}
+
+.row:after {
+  clear: both;
+}
+
+.column {
+	float: left;
+/*	border: 2px solid black;
+	border-radius: 20px;*/
+	text-align: center;
+	position: relative;
+	background: #AAAA7FFF;
 	
-	header {
+}
+
+.column .column {
+  /*border: 2px solid #AAAA7FFF;*/
+}
+
+.header > .column {
+	height: 150px;
+}
+.footer > .column {
+	padding: 25px;
+}
+
+.middle > .column {
+	height: 400px;
+	line-height: 400px;
+}
+
+.module {
+	margin: 0 2% 0 2%;
+}
+
+.header ul {
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.header li {
+	display: inline-block;
+	list-style-type: none;
+}
+
+#imgme {
+	height: 104px;
+	width: 140px;
+}
+
+#imgme img {
+	max-width: 100%;
+	max-height: 100%;
+	margin: auto;
+	display: block;
+}
+
+#resume {
+	margin: auto;
+	display: block;
+	max-height: 100%;
+	text-align: left;
+	text
+}
+
+body {
+	text-align: justify;
+	background: #AAAA7F;
+}
+
+li {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+/*	header {
 		text-align: center;
 		background: url("http://i.imgur.com/jc5PgX4.jpg");
 		background-position: center;
@@ -69,4 +156,18 @@
 	body {
 		text-align: justify;
 		background: #232323;
-	}
+	}*/
+
+
+.column-1 { width: 8.33%; }
+.column-2 { width: 16.66%; }
+.column-3 { width: 25%; }
+.column-4 { width: 33.33%; }
+.column-5 { width: 41.66%; }
+.column-6 { width: 50%; }
+.column-7 { width: 58.33%; }
+.column-8 { width: 66.66%; }
+.column-9 { width: 75%; }
+.column-10 { width: 83.33%; }
+.column-11 { width: 91.66%; }
+.column-12 { width: 100%; }
