@@ -81,14 +81,41 @@
 	overflow: auto;
 }
 
+#external {
+	margin: auto;
+	display: inline;
+	max-height: 100%;
+	max-width: 100%;
+	text-align: left;
+	overflow: auto;
+}
+
+.workplaces {
+	margin: auto;
+	display: inline;
+	max-height: 100%;
+	max-width: 100%;
+	text-align: left;
+	overflow: auto;	
+}
+
 body {
 	text-align: justify;
 	background: #AAAA7F;
 }
 
+ul {
+	list-style-type: none;
+}
+
 li {
 	margin-left: 20px;
 	margin-right: 20px;
+}
+
+td {
+	text-align: left;
+	vertical-align: top;
 }
 /*	header {
 		text-align: center;
