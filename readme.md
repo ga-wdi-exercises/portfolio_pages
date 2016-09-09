@@ -6,29 +6,17 @@ Create a personal portfolio page and deploy it to [Github pages](https://pages.g
 
 You may continue with the "About Me" page you created when interviewing for this course. However, the intent is that **this will be the foundation of the portfolio page you display to employers**, so you'll probably want to make significant improvements!
 
-**At 2:30pm please report to your classroom.** We'll ask you to pair with another student and review each others' sites:
-
-1. Push your most recent changes to Github.
-- Fork your partner's repository.
-- Clone it down.
-- Check out a new branch called `your-name-suggestions`.
-- Take 15 minutes to make comments, suggestions, and changes to their code.
-- Add and commit your changes, and then `git push origin your-name-suggestions`.
-- Click the green "New Pull Request" button on your fork's Github page and follow the steps.
-- Take a look at the pull request your partner made on *their* fork of *your* repository, and consider their changes.
-- Close their pull request (or, if you wish, merge it in).
-
-**At 4:30pm you will meet with your squad at the last place you met.**
-
 ## Requirements
 
 **This lab counts as an assignment.** Your squad instructor will review your code and leave feedback by Monday.
 
-- Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
 - Your semantics and style should be separated appropriately: your CSS should be separate from your HTML.
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
 - Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
 - Javascript isn't required, but you get bonus points for giving it a shot!
+- Your page must be deployed to [Github pages](https://pages.github.com/). This is a free hosting service provided by Github. You should name your repository `your-username.github.io`. The result is that your page will be publicly available at http://your-username.github.io.
+
+> You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions [here](https://pages.github.com/). If you run into any issues, just ask the instructor on lab support.
 
 ### Submission
 
