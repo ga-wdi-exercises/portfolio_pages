@@ -1,0 +1,68 @@
+body {
+  font-family: "Roboto", Helvetica, sans-serif;
+}
+
+.container {
+  width: 100%;
+  height: 576px;
+  font-weight: 300;
+  /*display:flex;*/
+  /*flex-flow: row wrap;*/
+}
+
+.square {
+  /*overflow: hidden;*/
+  text-align: center;
+  height: 50%;
+  weight: 50%;
+}
+
+.square > h1 {
+  padding-top: 85px;
+}
+
+.square > h2 {
+  padding-top: 115px;
+}
+
+.jonathan {
+  background-color: white;
+}
+
+#project1{
+  background-color: blue;
+  color: red;
+}
+
+#project2 {
+  background-color: silver;
+  color: orange;
+}
+
+#project3 {
+  background-color: yellow;
+  color: #462607;
+}
+
+.mask {
+  -webkit-transform: translateX(100%);
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+.square:hover .mask{
+  -webkit-transform: translateX(0%);
+  -webkit-transition: all 0.3s ease-in-out;
+}
+
+#project1:hover .mask {
+  background: #000 url(../images/plain-guitar.jpg) no-repeat;
+  background-size: cover;
+}
+
+/*.mask {
+ visibility: hidden;
+}
+
+#project1:hover .mask, #project2:hover .mask, #project3:hover .mask {
+  visibility: visible;
+}*/
