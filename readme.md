@@ -8,9 +8,9 @@ You may continue with the "About Me" page you created when interviewing for this
 
 ## Requirements
 
-**This lab counts as an assignment.** Your squad instructor will review your code and leave feedback by Monday.
+**This lab counts as an assignment and is due today at 5pm.** 
 
-- Your semantics and style should be separated appropriately: your CSS should be separate from your HTML.
+- Separate concerns of semantics and style: your CSS should be in a linked stylesheet separate from your HTML.
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
 - Your CSS should [pass the W3 CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
 - Javascript isn't required, but you get bonus points for giving it a shot!
