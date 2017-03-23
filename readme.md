@@ -2,13 +2,13 @@
 
 ## Instructions
 
-Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/).
+Create a personal portfolio page and deploy it to [Github pages](https://pages.github.com/). Please refer to the documentation on GitHub for detailed instructions.
 
 You may continue with the "About Me" page you created when interviewing for this course. However, the intent is that **this will be the foundation of the portfolio page you display to employers**, so you'll probably want to make significant improvements!
 
 ## Requirements
 
-**This lab counts as an assignment and is due today at 5pm.** 
+**This lab counts as an assignment and is due today at 5pm.**
 
 - Separate concerns of semantics and style: your CSS should be in a linked stylesheet separate from your HTML.
 - Your HTML should [pass the W3 HTML validator](https://validator.w3.org/#validate_by_input).
