@@ -1,0 +1,31 @@
+@mixin sectionColor($textColor, $backgroundColor){
+  color: $textColor;
+  background-color: $backgroundColor;
+}
+
+#contact_info div {
+  display: inline-block;
+  margin: 20px;
+}
+
+#section1 {
+@include sectionColor(lemonchiffon, blue);
+}
+#section2{
+@include sectionColor(lemonchiffon, blue);
+}
+#section3{
+@include sectionColor(lemonchiffon, blue);
+}
+#section4{
+@include sectionColor(lemonchiffon, blue);
+}
+#section5{
+@include sectionColor(lemonchiffon, blue);
+}
+
+#myNavbar {
+  & li{
+    text-shadow: 1px 1px white;
+  }
+}
