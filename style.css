@@ -1,0 +1,66 @@
+header {
+    display: block;
+    position: fixed;
+    left: 0px;
+    width: 100%;
+    height:20px;
+    background: rgba(0,0,0,0.1);
+  }
+
+  body {
+    text-align: left;
+    background: url("http://i.imgur.com/6eqsZ8t.jpg?1");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: "Modern", serif
+  }
+  section {
+    float: left;
+  }
+  h1 {
+    font-family: "Cursive", cursive;
+    font-size: 45px;
+    padding: 5px;
+  }
+  img {
+    max-width: 400px;
+    margin: 50px 100px 0px 0px;
+    border: 30px solid white;
+    border-radius: 900px;
+    vertical-align: -50px;
+  }
+  img:hover {
+    border-color: #ff6666;
+  }
+  p {
+    font-size: 18px;
+    font-family: "Didot", serif;
+    vertical-align: -50px;
+  }
+  input {
+    background: #33cccc;
+    color: white;
+    text-align: center;
+    vertical-align: center;
+    border-radius: 25px;
+    padding: 8px 10px 10px 10px;
+    border: 0px;
+    width: 70px;
+    height: 35px;
+    padding: 9px;
+    font-size: 18px;
+    font-family: "Garamond", Verdana, sans-serif;
+  }
+  footer {
+    display: block;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 110px;
+    background: rgba(0,0,0,0.3);
+    color: #66ffff;
+    font-size: 14px;
+    font-family: "Palatino", Garamond, serif;
+  }
