@@ -1,0 +1,29 @@
+@import "../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+
+$navstyles: #1D1F21;
+$primary-color: #eee;
+.name {
+  text-align: center!important;
+  text-transform: uppercase;
+  transform: skew(8deg);
+	color: #eee!important;
+}
+
+.name:hover {
+  text-shadow: removeTextShadow(red);
+}
+
+body {
+	background: url(../images/mountains.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.title-box {
+  background-color: #1D1F21;
+  color: #eee;
+}
+
+.footer {
+  background-color: #1D1F21!important;
+  color: #eee!important;
+}
