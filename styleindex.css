@@ -1,0 +1,162 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: verdana;
+  font-size: 50px;
+  text-align:left;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+#hilaryname{
+  font-family: impact;
+}
+.brandstatement {
+  font-size: 20px;
+  font-family:arial;
+  text-align: left;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+#nav {
+  background-color: black;
+  color: blue;
+  position: fixed;
+  font-family:verdana, sans-serif;
+  font-size: 20px;
+  text-align: right;
+  height: 50px;
+  width: 100%;
+  padding-right: 10px;
+  list-style-type: none;
+  opacity: 0.6;
+}
+li {
+  display: inline-block;
+}
+
+.div_top{
+  /*background-image: url("http://i.imgur.com/BvuFLI2.jpg");*/
+  background-image: url("http://i.imgur.com/ZcRJz0r.jpg"), url("http://i.imgur.com/9hrsyMJ.jpg");
+  /*background-attachment: fixed;*/
+  height: 1150px;
+  width: 100%;
+  background-size:cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: orange;
+  text-shadow: 20px;
+  font-family: Helvetica, sans-serif;
+}
+
+
+.aboutme {
+  text-align: left;
+  font-size: 18px;
+  font-family:verdana;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  height: 400px;
+  width: 100%;
+  color: orange;
+  background-color: black;
+  background-attachment: fixed;
+  /*opacity: .8;*/
+}
+
+
+.bio{
+  text-align: center;
+  margin-left: 22%;
+  margin-right: 20%;
+}
+.development {
+  background-image: url("http://i.imgur.com/dN6MX3b.jpg");
+  background-attachment: fixed;
+  text-align: left;
+  font-size: 20px;
+  font-family:verdana;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  height: 300px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+.projects {
+  text-align: left;
+  font-size: 30px;
+  font-family: impact;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  height: 500px;
+  width: 100%;
+  background-color: black;
+  color: orange;
+}
+.picasso {
+  text-align: center;
+  padding-bottom: 10%;
+}
+.jogimage{
+  background-image: url(http://i.imgur.com/OiIxbO8.jpg);
+  height: 250px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center;
+  background-size: cover;
+}
+
+.contact{
+  background-image: url("http://i.imgur.com/VKe8Hms.jpg");
+  /*background-color: gray;*/
+  background-position: center;
+  /*background-attachment: fixed;*/
+  background-size:cover;;
+  text-align: left;
+  font-size: 20px;
+  font-family:verdana;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  height: 900px;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  display: inline-block;
+}
+.icons{
+  padding-top: 80px;
+  padding-bottom: 80px;
+  /*height: 400px;*/
+  width: 100%;
+  color: orange;
+  background-color: black;
+}
+#kittygithub {
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  background-position: center;
+  background-size: cover;
+}
+#twitter {
+  height: 200px;
+  width: 200px;
+
+  background-position: center;
+  background-size: cover;
+}
