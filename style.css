@@ -1,0 +1,44 @@
+.footer {
+
+   bottom:0px;
+   height:50px;
+   width:100%;
+   background:silver;
+   border-top: 1px, black;
+}
+img{
+  height: 250px;
+  width: 250px;
+}
+
+#footer{
+  text-align:center;
+}
+
+.header{
+  position:fixed;
+  top: 0px;
+  height:50px;
+  width:100%;
+  border-bottom:: 1px, black;
+  text-align: center;
+  border-bottom: 2px solid grey;
+  background: white;
+}
+body{
+  border-top: 100px;
+  padding-top: 50px;
+}
+#lorem2{
+  float: right;
+  width: 50%;
+}
+
+#lorem{
+  float: left;
+  width: 50%;
+}
+#head2{
+  float: right;
+
+}
